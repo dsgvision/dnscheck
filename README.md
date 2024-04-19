@@ -1,5 +1,5 @@
 # DNS Check Erweiterung für Edge/Chrome
-
+![DNS Check](/img/dns-records-hero.png)
 Diese Erweiterung ermöglicht es Nutzern, schnell DNS-Records für beliebige Domains zu prüfen, indem Sie einfach den Domainnamen auf einer beliebigen Webseite markieren und aus dem Kontextmenü den DNS Check ausführen.
 
 ## Funktionen
