@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Öffne DNS Records",
+    "version": "1.0",
+    "description": "Erweiterung zum Öffnen von DNS-Eintragsseiten basierend auf der markierten Domain.",
+    "author": "Bünyamin Bir @ DSG.Vision",
+    "icons": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "permissions": [
+      "activeTab",
+      "contextMenus"
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "host_permissions": [
+      "https://www.nslookup.io/*"
+    ]
+  }
+  
